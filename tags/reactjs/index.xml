@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ReactJS on HuyPoly&#39;s Blog</title>
-    <link>https://hungpt.info/tags/reactjs/</link>
+    <link>https://huypoly.one/tags/reactjs/</link>
     <description>Recent content in ReactJS on HuyPoly&#39;s Blog</description>
     <image>
-      <url>https://hungpt.info/thumbnail.jpg</url>
-      <link>https://hungpt.info/thumbnail.jpg</link>
+      <url>https://huypoly.one/thumbnail.jpg</url>
+      <link>https://huypoly.one/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hungpt.info/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huypoly.one/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cách sử dụng useMemo và memo trong ReactJS</title>
-      <link>https://hungpt.info/posts/use_memo_in_reactjs/</link>
+      <link>https://huypoly.one/posts/use_memo_in_reactjs/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_memo_in_reactjs/</guid>
+      <guid>https://huypoly.one/posts/use_memo_in_reactjs/</guid>
       <description>useMemo và memo trong ReactJs.</description>
     </item>
     
     <item>
       <title>Cách sử dụng useReduce trong ReactJS</title>
-      <link>https://hungpt.info/posts/use_reduce_in_reactjs/</link>
+      <link>https://huypoly.one/posts/use_reduce_in_reactjs/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_reduce_in_reactjs/</guid>
+      <guid>https://huypoly.one/posts/use_reduce_in_reactjs/</guid>
       <description>useReduce trong ReactJs.</description>
     </item>
     
     <item>
       <title>Cách sử dụng useRef trong ReactJS</title>
-      <link>https://hungpt.info/posts/use_ref/</link>
+      <link>https://huypoly.one/posts/use_ref/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_ref/</guid>
+      <guid>https://huypoly.one/posts/use_ref/</guid>
       <description>UseRef trong ReactJs.</description>
     </item>
     
     <item>
       <title>Cách sử dụng useEffect trong ReactJS (Phần 3)</title>
-      <link>https://hungpt.info/posts/use_effect_part3/</link>
+      <link>https://huypoly.one/posts/use_effect_part3/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_effect_part3/</guid>
+      <guid>https://huypoly.one/posts/use_effect_part3/</guid>
       <description>UseEffect với DOMEvent .</description>
     </item>
     
     <item>
       <title>Cách sử dụng useEffect trong ReactJS (Phần 4)</title>
-      <link>https://hungpt.info/posts/use_effect_part4/</link>
+      <link>https://huypoly.one/posts/use_effect_part4/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_effect_part4/</guid>
+      <guid>https://huypoly.one/posts/use_effect_part4/</guid>
       <description>UseEffect với Timer function.</description>
     </item>
     
     <item>
       <title>Cách sử dụng useEffect trong Reactjs (Phần 1)</title>
-      <link>https://hungpt.info/posts/use_effect/</link>
+      <link>https://huypoly.one/posts/use_effect/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_effect/</guid>
+      <guid>https://huypoly.one/posts/use_effect/</guid>
       <description>Cách sử dụng useEffect trong Reactjs .</description>
     </item>
     
     <item>
       <title>Cách sử dụng useEffect trong Reactjs (Phần 2)</title>
-      <link>https://hungpt.info/posts/use_effect_part2/</link>
+      <link>https://huypoly.one/posts/use_effect_part2/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/use_effect_part2/</guid>
+      <guid>https://huypoly.one/posts/use_effect_part2/</guid>
       <description>UseEffect với dependencies trong Reactjs .</description>
     </item>
     
     <item>
       <title>Sử dụng useState() Hook trong React như nào cho đúng?</title>
-      <link>https://hungpt.info/posts/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</link>
+      <link>https://huypoly.one/posts/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</guid>
+      <guid>https://huypoly.one/posts/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</guid>
       <description>Sử dụng useState() Hook trong React như nào cho đúng?</description>
     </item>
     
     <item>
       <title>Kiến thức Javascript cơ bản cần phải biết trước khi học ReactJS</title>
-      <link>https://hungpt.info/posts/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</link>
+      <link>https://huypoly.one/posts/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hungpt.info/posts/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</guid>
+      <guid>https://huypoly.one/posts/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</guid>
       <description>ReactJS là một Javascript framework rất phổ biến với giới lập trình Web Frontend hiện nay, số lượng tuyển dụng lập trình viên ReactJS cũng rất lớn. Do đó nhiều người mới học Web Frontend sau khi học xong một chút HTML CSS JS là muốn nhảy vào lập trình ReactJS ngay. Điều này dẫn đến hệ lụy là các bạn sẽ bị hổng kiến thức cơ bản, hoặc khi học ReactJS sẽ rất chật vật vì không hiểu cú pháp, không hiểu bản chất, ….</description>
     </item>
     

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperMod on HuyPoly&#39;s Blog</title>
-    <link>https://hungpt.info/posts/papermod/</link>
+    <link>https://huypoly.one/posts/papermod/</link>
     <description>Recent content in PaperMod on HuyPoly&#39;s Blog</description>
     <image>
-      <url>https://hungpt.info/thumbnail.jpg</url>
-      <link>https://hungpt.info/thumbnail.jpg</link>
+      <url>https://huypoly.one/thumbnail.jpg</url>
+      <link>https://huypoly.one/thumbnail.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hungpt.info/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://huypoly.one/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
