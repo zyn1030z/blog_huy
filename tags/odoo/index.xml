@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Odoo on HuyPoly&#39;s Blog</title>
+    <link>https://hungpt.info/tags/odoo/</link>
+    <description>Recent content in Odoo on HuyPoly&#39;s Blog</description>
+    <image>
+      <url>https://hungpt.info/thumbnail.jpg</url>
+      <link>https://hungpt.info/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hungpt.info/tags/odoo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cách sử dụng safe_eval trong Odoo</title>
+      <link>https://hungpt.info/posts/safe_eval_in_odoo/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/posts/safe_eval_in_odoo/</guid>
+      <description>Cách sử dụng safe_eval trong Odoo</description>
+    </item>
+    
+    <item>
+      <title>(Javascript trong Odoo) Phần 2 Tạo logic cho widget</title>
+      <link>https://hungpt.info/posts/odoo-javascript-programming-tutorial-part-two-widget-logic/</link>
+      <pubDate>Thu, 07 Jul 2022 14:15:33 +0700</pubDate>
+      
+      <guid>https://hungpt.info/posts/odoo-javascript-programming-tutorial-part-two-widget-logic/</guid>
+      <description>Trong phần 1, chúng ta đã tạo ra 1 Widget để hiển thị một đoạn text văn bản. Sang phần 2 này, chúng ta cùng nhau xây dựng một logic cho widget này. Tiếp theo bạn cần khai báo 1 trường như sau:
+field_one = fields.Integer(&#39;Field One&#39;) Thông thường khi chúng ta khai báo 1 field như trên và thêm chúng vào XML, mặc định Odoo sẽ cho chúng ta sửa giá trị trên giao diện kiểu như sau: Nhưng để có thể hạn chế thêm việc người dùng nhập vào không phải ký tự là số nguyên, ở đây mình sẽ thêm 2 nút tăng giảm + - và trường giá trị để readonly.</description>
+    </item>
+    
+    <item>
+      <title>(Javascript trong Odoo) Phần 1 Tạo widget</title>
+      <link>https://hungpt.info/posts/odoo-javascript-programming-tutorial-part-one-create-widget-view/</link>
+      <pubDate>Thu, 07 Jul 2022 11:22:29 +0700</pubDate>
+      
+      <guid>https://hungpt.info/posts/odoo-javascript-programming-tutorial-part-one-create-widget-view/</guid>
+      <description>Đối với lập trình viên odoo, Widget là một thứ khá mới mẻ bởi vì chúng ta hiếm khi lập trình với ngôn ngữ javascript. Hầu như tất cả logic được viết với python, ngoại trừ khi tùy chỉnh điểm bán hàng(POS) hoặc mô-đun thương mại điện tử(Website).
+Đối với những lập trình viên odoo, theo cá nhân mình thấy thì javascript là phần cuối cùng mà bạn nên học. Tốt hơn hết bạn nên lập trung code với python trừ khi dự án bạn làm liên quan đến POS hoặc Website</description>
+    </item>
+    
+  </channel>
+</rss>

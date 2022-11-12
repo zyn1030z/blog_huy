@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on HuyPoly&#39;s Blog</title>
+    <link>https://hungpt.info/tags/</link>
+    <description>Recent content in Tags on HuyPoly&#39;s Blog</description>
+    <image>
+      <url>https://hungpt.info/thumbnail.jpg</url>
+      <link>https://hungpt.info/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hungpt.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://hungpt.info/tags/aws/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://hungpt.info/tags/devops/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://hungpt.info/tags/docker/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://hungpt.info/tags/kubernetes/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://hungpt.info/tags/linux/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odoo</title>
+      <link>https://hungpt.info/tags/odoo/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/odoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://hungpt.info/tags/javascript/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>https://hungpt.info/tags/reactjs/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hungpt.info/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
